@@ -195,7 +195,6 @@ static const uint32_t bottomEdgeCategory = 16; // 000000000000000000000000000100
     [self addBricks];
     [self addBottomEdge];
 
-
     
 }
 

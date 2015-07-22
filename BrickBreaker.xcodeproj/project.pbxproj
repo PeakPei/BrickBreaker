@@ -103,8 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				030E5A591B31C91B00F87FD3 /* bricks.atlas */,
-				03B324511B25D1A80064218A /* AppDelegate.h */,
 				030E5A5D1B31CF8700F87FD3 /* orb.atlas */,
+				03B324511B25D1A80064218A /* AppDelegate.h */,
 				03B324521B25D1A80064218A /* AppDelegate.m */,
 				03B324541B25D1A80064218A /* GameScene.h */,
 				03B324551B25D1A80064218A /* GameScene.m */,
